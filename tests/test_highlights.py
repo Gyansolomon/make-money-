@@ -68,3 +68,14 @@ def test_parse_json_variants():
     assert llm.parse_json('{"a": 1}') == {"a": 1}
     assert llm.parse_json('Sure! Here you go: {"a": [1, 2]} hope it helps') == {"a": [1, 2]}
     assert llm.parse_json("```\n[1, 2]\n```") == [1, 2]
+
+
+def test_zero_count_selects_nothing():
+    assert select_non_overlapping([Clip(0, 30, "a", score=5)], 0) == []
+
+
+def test_non_list_clips_from_llm_fall_back_to_heuristic(monkeypatch):
+    monkeypatch.setenv("GEMINI_API_KEY", "x")
+    monkeypatch.setattr(llm, "complete", lambda prompt, **kw: '{"clips": null}')
+    clips = highlights.find_clips(long_transcript(), 2, 10, 25, log=lambda *_: None)
+    assert clips and all(c.reason == "heuristic" for c in clips)

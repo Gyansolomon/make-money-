@@ -58,6 +58,9 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "clip":
         from moneymaker.clipper import ClipJob, run
 
+        if args.count <= 0:
+            print("--count must be at least 1", file=sys.stderr)
+            return 2
         if args.min_len <= 0 or args.max_len <= args.min_len:
             print("--max-len must be greater than --min-len (> 0)", file=sys.stderr)
             return 2

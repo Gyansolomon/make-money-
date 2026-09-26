@@ -23,7 +23,7 @@ def test_clip_pipeline_end_to_end(tmp_path):
     cache.mkdir(parents=True)
     texts = ["Why do most people never get rich? Here is the truth nobody tells you."] * 2 + \
             ["and so we kept going with the rest of the conversation for a bit longer"] * 6
-    make_transcript(texts).save(cache / "transcript-small.json")
+    make_transcript(texts).save(cache / "transcript-small-auto.json")
 
     for layout in ("fit", "crop"):
         out = tmp_path / f"out-{layout}"
@@ -38,3 +38,22 @@ def test_clip_pipeline_end_to_end(tmp_path):
             assert info["has_audio"]
             assert (folder / r["file"].replace(".mp4", ".txt")).read_text().strip()
         assert (folder / "clips.json").exists() and (folder / "clips.csv").exists()
+
+
+def test_job_id_changes_when_local_file_is_replaced(tmp_path):
+    import os
+
+    f = tmp_path / "v.mp4"
+    f.write_bytes(b"one")
+    first = job_id(str(f))
+    f.write_bytes(b"second version")
+    os.utime(f, ns=(1, 2))
+    assert job_id(str(f)) != first
+    assert job_id("https://example.com/v") == job_id("https://example.com/v")
+
+
+def test_cli_rejects_non_positive_count(capsys):
+    from moneymaker.cli import main
+
+    assert main(["clip", "x.mp4", "-n", "0"]) == 2
+    assert "--count" in capsys.readouterr().err

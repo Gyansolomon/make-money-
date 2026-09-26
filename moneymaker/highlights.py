@@ -78,6 +78,8 @@ def candidate_windows(transcript: Transcript, min_len: float, max_len: float) ->
 
 
 def select_non_overlapping(clips: list[Clip], count: int, gap: float = 2.0) -> list[Clip]:
+    if count <= 0:
+        return []
     chosen: list[Clip] = []
     for clip in sorted(clips, key=lambda c: c.score, reverse=True):
         if all(clip.end + gap <= c.start or clip.start >= c.end + gap for c in chosen):
@@ -141,7 +143,10 @@ def _llm_chunk(segs: list[Segment], offset: int, n: int, min_len: float, max_len
         notes=f"- Campaign requirements from the client: {notes}\n" if notes else "",
     )
     data = llm.parse_json(llm.complete(prompt))
-    return data.get("clips", []) if isinstance(data, dict) else data
+    clips = data.get("clips") if isinstance(data, dict) else data
+    if not isinstance(clips, list):
+        raise llm.LLMError(f"Expected a list of clips, got {type(clips).__name__}")
+    return clips
 
 
 def _to_clip(raw: dict, segs: list[Segment], min_len: float, max_len: float, hashtags: list[str]) -> Clip | None:

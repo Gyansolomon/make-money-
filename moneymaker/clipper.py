@@ -43,7 +43,15 @@ def slugify(text: str, limit: int = 40) -> str:
 
 
 def job_id(source: str) -> str:
-    return hashlib.sha1(source.encode()).hexdigest()[:10]
+    """Cache key for a source. Local files include size and mtime so an in-place replacement
+    gets a fresh cache instead of reusing the old audio and transcript."""
+    key = source
+    if not media.is_url(source):
+        path = Path(source).expanduser()
+        if path.exists():
+            st = path.stat()
+            key = f"{path.resolve()}|{st.st_size}|{st.st_mtime_ns}"
+    return hashlib.sha1(key.encode()).hexdigest()[:10]
 
 
 def post_text(clip: Clip) -> str:
@@ -68,7 +76,7 @@ def run(job: ClipJob, log=print) -> list[dict]:
 
     log(f"[2/4] Transcribing with whisper '{job.whisper_model}' (cached after first run)")
     audio = media.extract_audio(video, work / "audio.wav")
-    transcript: Transcript = transcribe(audio, work / f"transcript-{job.whisper_model}.json",
+    transcript: Transcript = transcribe(audio, work / f"transcript-{job.whisper_model}-{job.language or 'auto'}.json",
                                         job.whisper_model, job.language)
     log(f"      {len(transcript.segments)} segments, language={transcript.language}")
 
@@ -78,7 +86,7 @@ def run(job: ClipJob, log=print) -> list[dict]:
         log("      No clip-worthy windows found (video too short for --min-len?)")
         return []
 
-    out = job.out_dir / f"{slugify(Path(video).stem if not media.is_url(job.source) else job.source.split('/')[-1])}-{job_id(job.source)}"
+    out = job.out_dir / f"{slugify(Path(video).stem if not media.is_url(job.source) else job.source.split('/')[-1])}-{work.name}"
     out.mkdir(parents=True, exist_ok=True)
     log(f"[4/4] Rendering {len(clips)} clips -> {out}")
     results = []
