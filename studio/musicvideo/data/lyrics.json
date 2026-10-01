@@ -1,0 +1,1306 @@
+{
+ "lines": [
+  {
+   "i": 0,
+   "text": "Two hundred million trees.",
+   "start": 2.48,
+   "end": 3.72,
+   "words": [
+    {
+     "w": "Two",
+     "start": 2.48,
+     "end": 2.612,
+     "conf": 1.0
+    },
+    {
+     "w": "hundred",
+     "start": 2.612,
+     "end": 2.92,
+     "conf": 1.0
+    },
+    {
+     "w": "million",
+     "start": 2.92,
+     "end": 3.2,
+     "conf": 1.0
+    },
+    {
+     "w": "trees.",
+     "start": 3.2,
+     "end": 3.72,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "text": "In one of the driest places on Earth.",
+   "start": 4.88,
+   "end": 6.6,
+   "words": [
+    {
+     "w": "In",
+     "start": 4.88,
+     "end": 4.98,
+     "conf": 1.0
+    },
+    {
+     "w": "one",
+     "start": 4.98,
+     "end": 5.08,
+     "conf": 1.0
+    },
+    {
+     "w": "of",
+     "start": 5.08,
+     "end": 5.18,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 5.18,
+     "end": 5.26,
+     "conf": 1.0
+    },
+    {
+     "w": "driest",
+     "start": 5.26,
+     "end": 5.74,
+     "conf": 1.0
+    },
+    {
+     "w": "places",
+     "start": 5.74,
+     "end": 6.02,
+     "conf": 1.0
+    },
+    {
+     "w": "on",
+     "start": 6.02,
+     "end": 6.38,
+     "conf": 1.0
+    },
+    {
+     "w": "Earth.",
+     "start": 6.38,
+     "end": 6.6,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "And nobody planted them.",
+   "start": 7.28,
+   "end": 8.64,
+   "words": [
+    {
+     "w": "And",
+     "start": 7.28,
+     "end": 7.42,
+     "conf": 1.0
+    },
+    {
+     "w": "nobody",
+     "start": 7.42,
+     "end": 7.8,
+     "conf": 1.0
+    },
+    {
+     "w": "planted",
+     "start": 7.8,
+     "end": 8.3,
+     "conf": 1.0
+    },
+    {
+     "w": "them.",
+     "start": 8.3,
+     "end": 8.64,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Niger. The 1970s.",
+   "start": 12.08,
+   "end": 13.82,
+   "words": [
+    {
+     "w": "Niger.",
+     "start": 12.08,
+     "end": 12.46,
+     "conf": 1.0
+    },
+    {
+     "w": "The",
+     "start": 12.7,
+     "end": 12.75,
+     "conf": 1.0
+    },
+    {
+     "w": "1970s.",
+     "start": 12.74,
+     "end": 13.82,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "The edge of the Sahara.",
+   "start": 14.48,
+   "end": 15.66,
+   "words": [
+    {
+     "w": "The",
+     "start": 14.48,
+     "end": 14.6,
+     "conf": 1.0
+    },
+    {
+     "w": "edge",
+     "start": 14.6,
+     "end": 14.88,
+     "conf": 1.0
+    },
+    {
+     "w": "of",
+     "start": 14.88,
+     "end": 15.1,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 15.1,
+     "end": 15.24,
+     "conf": 1.0
+    },
+    {
+     "w": "Sahara.",
+     "start": 15.24,
+     "end": 15.66,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "Millet in the fields, old trees in between.",
+   "start": 16.88,
+   "end": 18.94,
+   "words": [
+    {
+     "w": "Millet",
+     "start": 16.88,
+     "end": 17.18,
+     "conf": 1.0
+    },
+    {
+     "w": "in",
+     "start": 17.18,
+     "end": 17.28,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 17.28,
+     "end": 17.4,
+     "conf": 1.0
+    },
+    {
+     "w": "fields,",
+     "start": 17.4,
+     "end": 17.72,
+     "conf": 1.0
+    },
+    {
+     "w": "old",
+     "start": 18.0,
+     "end": 18.1,
+     "conf": 1.0
+    },
+    {
+     "w": "trees",
+     "start": 18.1,
+     "end": 18.42,
+     "conf": 1.0
+    },
+    {
+     "w": "in",
+     "start": 18.42,
+     "end": 18.62,
+     "conf": 1.0
+    },
+    {
+     "w": "between.",
+     "start": 18.62,
+     "end": 18.94,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "More people every year. More fields. More firewood.",
+   "start": 20.48,
+   "end": 23.0,
+   "words": [
+    {
+     "w": "More",
+     "start": 20.48,
+     "end": 20.62,
+     "conf": 1.0
+    },
+    {
+     "w": "people",
+     "start": 20.62,
+     "end": 20.9,
+     "conf": 1.0
+    },
+    {
+     "w": "every",
+     "start": 20.9,
+     "end": 21.26,
+     "conf": 1.0
+    },
+    {
+     "w": "year.",
+     "start": 21.26,
+     "end": 21.54,
+     "conf": 1.0
+    },
+    {
+     "w": "More",
+     "start": 21.76,
+     "end": 21.82,
+     "conf": 1.0
+    },
+    {
+     "w": "fields.",
+     "start": 21.82,
+     "end": 22.22,
+     "conf": 1.0
+    },
+    {
+     "w": "More",
+     "start": 22.44,
+     "end": 22.52,
+     "conf": 1.0
+    },
+    {
+     "w": "firewood.",
+     "start": 22.52,
+     "end": 23.0,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "So the trees come down.",
+   "start": 24.08,
+   "end": 25.26,
+   "words": [
+    {
+     "w": "So",
+     "start": 24.08,
+     "end": 24.2,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 24.2,
+     "end": 24.32,
+     "conf": 1.0
+    },
+    {
+     "w": "trees",
+     "start": 24.32,
+     "end": 24.6,
+     "conf": 1.0
+    },
+    {
+     "w": "come",
+     "start": 24.6,
+     "end": 24.9,
+     "conf": 1.0
+    },
+    {
+     "w": "down.",
+     "start": 24.9,
+     "end": 25.26,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "Problem solved.",
+   "start": 25.88,
+   "end": 26.66,
+   "words": [
+    {
+     "w": "Problem",
+     "start": 25.88,
+     "end": 26.22,
+     "conf": 1.0
+    },
+    {
+     "w": "solved.",
+     "start": 26.22,
+     "end": 26.66,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "Well. Not exactly.",
+   "start": 27.68,
+   "end": 28.64,
+   "words": [
+    {
+     "w": "Well.",
+     "start": 27.68,
+     "end": 27.88,
+     "conf": 1.0
+    },
+    {
+     "w": "Not",
+     "start": 28.02,
+     "end": 28.12,
+     "conf": 1.0
+    },
+    {
+     "w": "exactly.",
+     "start": 28.12,
+     "end": 28.64,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "Those roots were holding the soil together.",
+   "start": 31.28,
+   "end": 33.14,
+   "words": [
+    {
+     "w": "Those",
+     "start": 31.28,
+     "end": 31.5,
+     "conf": 1.0
+    },
+    {
+     "w": "roots",
+     "start": 31.5,
+     "end": 31.8,
+     "conf": 1.0
+    },
+    {
+     "w": "were",
+     "start": 31.8,
+     "end": 32.0,
+     "conf": 1.0
+    },
+    {
+     "w": "holding",
+     "start": 32.0,
+     "end": 32.3,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 32.3,
+     "end": 32.48,
+     "conf": 1.0
+    },
+    {
+     "w": "soil",
+     "start": 32.48,
+     "end": 32.74,
+     "conf": 1.0
+    },
+    {
+     "w": "together.",
+     "start": 32.74,
+     "end": 33.14,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "That shade was keeping the crops alive.",
+   "start": 34.88,
+   "end": 36.66,
+   "words": [
+    {
+     "w": "That",
+     "start": 34.88,
+     "end": 35.04,
+     "conf": 1.0
+    },
+    {
+     "w": "shade",
+     "start": 35.04,
+     "end": 35.32,
+     "conf": 1.0
+    },
+    {
+     "w": "was",
+     "start": 35.32,
+     "end": 35.54,
+     "conf": 1.0
+    },
+    {
+     "w": "keeping",
+     "start": 35.54,
+     "end": 35.78,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 35.78,
+     "end": 36.0,
+     "conf": 1.0
+    },
+    {
+     "w": "crops",
+     "start": 36.0,
+     "end": 36.28,
+     "conf": 1.0
+    },
+    {
+     "w": "alive.",
+     "start": 36.28,
+     "end": 36.66,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "Then the rain stops.",
+   "start": 37.28,
+   "end": 38.3,
+   "words": [
+    {
+     "w": "Then",
+     "start": 37.28,
+     "end": 37.48,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 37.48,
+     "end": 37.62,
+     "conf": 1.0
+    },
+    {
+     "w": "rain",
+     "start": 37.62,
+     "end": 37.86,
+     "conf": 1.0
+    },
+    {
+     "w": "stops.",
+     "start": 37.86,
+     "end": 38.3,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "The wind takes the soil. The crops die. The cattle die.",
+   "start": 40.88,
+   "end": 43.6,
+   "words": [
+    {
+     "w": "The",
+     "start": 40.88,
+     "end": 40.98,
+     "conf": 1.0
+    },
+    {
+     "w": "wind",
+     "start": 40.98,
+     "end": 41.16,
+     "conf": 1.0
+    },
+    {
+     "w": "takes",
+     "start": 41.16,
+     "end": 41.4,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 41.4,
+     "end": 41.68,
+     "conf": 1.0
+    },
+    {
+     "w": "soil.",
+     "start": 41.68,
+     "end": 41.9,
+     "conf": 1.0
+    },
+    {
+     "w": "The",
+     "start": 42.14,
+     "end": 42.2,
+     "conf": 1.0
+    },
+    {
+     "w": "crops",
+     "start": 42.2,
+     "end": 42.46,
+     "conf": 1.0
+    },
+    {
+     "w": "die.",
+     "start": 42.46,
+     "end": 42.78,
+     "conf": 1.0
+    },
+    {
+     "w": "The",
+     "start": 42.94,
+     "end": 43.0,
+     "conf": 1.0
+    },
+    {
+     "w": "cattle",
+     "start": 43.0,
+     "end": 43.22,
+     "conf": 1.0
+    },
+    {
+     "w": "die.",
+     "start": 43.22,
+     "end": 43.6,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "text": "And the desert keeps moving south.",
+   "start": 44.48,
+   "end": 45.96,
+   "words": [
+    {
+     "w": "And",
+     "start": 44.48,
+     "end": 44.58,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 44.58,
+     "end": 44.7,
+     "conf": 1.0
+    },
+    {
+     "w": "desert",
+     "start": 44.7,
+     "end": 45.0,
+     "conf": 1.0
+    },
+    {
+     "w": "keeps",
+     "start": 45.0,
+     "end": 45.3,
+     "conf": 1.0
+    },
+    {
+     "w": "moving",
+     "start": 45.3,
+     "end": 45.64,
+     "conf": 1.0
+    },
+    {
+     "w": "south.",
+     "start": 45.64,
+     "end": 45.96,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "text": "So the world does what it always does.",
+   "start": 48.08,
+   "end": 49.76,
+   "words": [
+    {
+     "w": "So",
+     "start": 48.08,
+     "end": 48.2,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 48.2,
+     "end": 48.32,
+     "conf": 1.0
+    },
+    {
+     "w": "world",
+     "start": 48.32,
+     "end": 48.52,
+     "conf": 1.0
+    },
+    {
+     "w": "does",
+     "start": 48.52,
+     "end": 48.76,
+     "conf": 1.0
+    },
+    {
+     "w": "what",
+     "start": 48.76,
+     "end": 48.96,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 48.96,
+     "end": 49.06,
+     "conf": 1.0
+    },
+    {
+     "w": "always",
+     "start": 49.06,
+     "end": 49.36,
+     "conf": 1.0
+    },
+    {
+     "w": "does.",
+     "start": 49.36,
+     "end": 49.76,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "text": "Plant trees! Millions of seedlings.",
+   "start": 50.48,
+   "end": 52.12,
+   "words": [
+    {
+     "w": "Plant",
+     "start": 50.48,
+     "end": 50.7,
+     "conf": 1.0
+    },
+    {
+     "w": "trees!",
+     "start": 50.7,
+     "end": 51.02,
+     "conf": 1.0
+    },
+    {
+     "w": "Millions",
+     "start": 51.02,
+     "end": 51.38,
+     "conf": 1.0
+    },
+    {
+     "w": "of",
+     "start": 51.38,
+     "end": 51.64,
+     "conf": 1.0
+    },
+    {
+     "w": "seedlings.",
+     "start": 51.64,
+     "end": 52.12,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "text": "Almost all of them die.",
+   "start": 52.88,
+   "end": 54.369,
+   "words": [
+    {
+     "w": "Almost",
+     "start": 52.88,
+     "end": 53.2,
+     "conf": 1.0
+    },
+    {
+     "w": "all",
+     "start": 53.2,
+     "end": 53.5,
+     "conf": 1.0
+    },
+    {
+     "w": "of",
+     "start": 53.5,
+     "end": 53.62,
+     "conf": 1.0
+    },
+    {
+     "w": "them",
+     "start": 53.62,
+     "end": 53.74,
+     "conf": 1.0
+    },
+    {
+     "w": "die.",
+     "start": 53.74,
+     "end": 54.369,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "text": "1983.",
+   "start": 57.68,
+   "end": 59.072,
+   "words": [
+    {
+     "w": "1983.",
+     "start": 57.68,
+     "end": 59.072,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "text": "Tony Rinaudo is ready to go home.",
+   "start": 60.08,
+   "end": 61.96,
+   "words": [
+    {
+     "w": "Tony",
+     "start": 60.08,
+     "end": 60.32,
+     "conf": 1.0
+    },
+    {
+     "w": "Rinaudo",
+     "start": 60.32,
+     "end": 60.76,
+     "conf": 1.0
+    },
+    {
+     "w": "is",
+     "start": 60.76,
+     "end": 61.06,
+     "conf": 1.0
+    },
+    {
+     "w": "ready",
+     "start": 61.06,
+     "end": 61.26,
+     "conf": 1.0
+    },
+    {
+     "w": "to",
+     "start": 61.26,
+     "end": 61.48,
+     "conf": 1.0
+    },
+    {
+     "w": "go",
+     "start": 61.48,
+     "end": 61.64,
+     "conf": 1.0
+    },
+    {
+     "w": "home.",
+     "start": 61.64,
+     "end": 61.96,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "text": "He looks down at a scruffy little bush,",
+   "start": 62.48,
+   "end": 64.18,
+   "words": [
+    {
+     "w": "He",
+     "start": 62.48,
+     "end": 62.58,
+     "conf": 1.0
+    },
+    {
+     "w": "looks",
+     "start": 62.58,
+     "end": 62.74,
+     "conf": 1.0
+    },
+    {
+     "w": "down",
+     "start": 62.74,
+     "end": 63.06,
+     "conf": 1.0
+    },
+    {
+     "w": "at",
+     "start": 63.06,
+     "end": 63.24,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 63.24,
+     "end": 63.36,
+     "conf": 1.0
+    },
+    {
+     "w": "scruffy",
+     "start": 63.36,
+     "end": 63.8,
+     "conf": 1.0
+    },
+    {
+     "w": "little",
+     "start": 63.8,
+     "end": 63.9,
+     "conf": 1.0
+    },
+    {
+     "w": "bush,",
+     "start": 63.9,
+     "end": 64.18,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "text": "and it isn’t a bush.",
+   "start": 64.88,
+   "end": 65.88,
+   "words": [
+    {
+     "w": "and",
+     "start": 64.88,
+     "end": 65.04,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 65.04,
+     "end": 65.16,
+     "conf": 1.0
+    },
+    {
+     "w": "isn’t",
+     "start": 65.16,
+     "end": 65.52,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 65.52,
+     "end": 65.62,
+     "conf": 1.0
+    },
+    {
+     "w": "bush.",
+     "start": 65.62,
+     "end": 65.88,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "text": "It’s a tree. Cut down years ago.",
+   "start": 67.28,
+   "end": 68.86,
+   "words": [
+    {
+     "w": "It’s",
+     "start": 67.28,
+     "end": 67.44,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 67.44,
+     "end": 67.54,
+     "conf": 1.0
+    },
+    {
+     "w": "tree.",
+     "start": 67.54,
+     "end": 67.8,
+     "conf": 1.0
+    },
+    {
+     "w": "Cut",
+     "start": 67.8,
+     "end": 68.08,
+     "conf": 1.0
+    },
+    {
+     "w": "down",
+     "start": 68.08,
+     "end": 68.36,
+     "conf": 1.0
+    },
+    {
+     "w": "years",
+     "start": 68.36,
+     "end": 68.56,
+     "conf": 1.0
+    },
+    {
+     "w": "ago.",
+     "start": 68.56,
+     "end": 68.86,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "text": "The roots are still alive.",
+   "start": 69.68,
+   "end": 70.84,
+   "words": [
+    {
+     "w": "The",
+     "start": 69.68,
+     "end": 69.8,
+     "conf": 1.0
+    },
+    {
+     "w": "roots",
+     "start": 69.8,
+     "end": 70.04,
+     "conf": 1.0
+    },
+    {
+     "w": "are",
+     "start": 70.04,
+     "end": 70.2,
+     "conf": 1.0
+    },
+    {
+     "w": "still",
+     "start": 70.2,
+     "end": 70.44,
+     "conf": 1.0
+    },
+    {
+     "w": "alive.",
+     "start": 70.44,
+     "end": 70.84,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "text": "A whole forest, hiding underground.",
+   "start": 72.08,
+   "end": 73.8,
+   "words": [
+    {
+     "w": "A",
+     "start": 72.08,
+     "end": 72.16,
+     "conf": 1.0
+    },
+    {
+     "w": "whole",
+     "start": 72.16,
+     "end": 72.4,
+     "conf": 1.0
+    },
+    {
+     "w": "forest,",
+     "start": 72.4,
+     "end": 72.84,
+     "conf": 1.0
+    },
+    {
+     "w": "hiding",
+     "start": 72.84,
+     "end": 73.22,
+     "conf": 1.0
+    },
+    {
+     "w": "underground.",
+     "start": 73.22,
+     "end": 73.8,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "text": "So the farmers stop cutting, and start choosing.",
+   "start": 74.48,
+   "end": 76.44,
+   "words": [
+    {
+     "w": "So",
+     "start": 74.48,
+     "end": 74.6,
+     "conf": 1.0
+    },
+    {
+     "w": "the",
+     "start": 74.6,
+     "end": 74.72,
+     "conf": 1.0
+    },
+    {
+     "w": "farmers",
+     "start": 74.72,
+     "end": 75.0,
+     "conf": 1.0
+    },
+    {
+     "w": "stop",
+     "start": 75.0,
+     "end": 75.3,
+     "conf": 1.0
+    },
+    {
+     "w": "cutting,",
+     "start": 75.3,
+     "end": 75.6,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 75.6,
+     "end": 75.88,
+     "conf": 1.0
+    },
+    {
+     "w": "start",
+     "start": 75.88,
+     "end": 76.1,
+     "conf": 1.0
+    },
+    {
+     "w": "choosing.",
+     "start": 76.1,
+     "end": 76.44,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "text": "One strong shoot per stump. Let it grow.",
+   "start": 78.08,
+   "end": 80.04,
+   "words": [
+    {
+     "w": "One",
+     "start": 78.08,
+     "end": 78.28,
+     "conf": 1.0
+    },
+    {
+     "w": "strong",
+     "start": 78.28,
+     "end": 78.56,
+     "conf": 1.0
+    },
+    {
+     "w": "shoot",
+     "start": 78.56,
+     "end": 78.84,
+     "conf": 1.0
+    },
+    {
+     "w": "per",
+     "start": 78.84,
+     "end": 79.04,
+     "conf": 1.0
+    },
+    {
+     "w": "stump.",
+     "start": 79.04,
+     "end": 79.36,
+     "conf": 1.0
+    },
+    {
+     "w": "Let",
+     "start": 79.56,
+     "end": 79.66,
+     "conf": 1.0
+    },
+    {
+     "w": "it",
+     "start": 79.66,
+     "end": 79.78,
+     "conf": 1.0
+    },
+    {
+     "w": "grow.",
+     "start": 79.78,
+     "end": 80.04,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "text": "Twenty years later: two hundred million trees.",
+   "start": 81.68,
+   "end": 83.72,
+   "words": [
+    {
+     "w": "Twenty",
+     "start": 81.68,
+     "end": 81.94,
+     "conf": 1.0
+    },
+    {
+     "w": "years",
+     "start": 81.94,
+     "end": 82.14,
+     "conf": 1.0
+    },
+    {
+     "w": "later:",
+     "start": 82.14,
+     "end": 82.56,
+     "conf": 1.0
+    },
+    {
+     "w": "two",
+     "start": 82.56,
+     "end": 82.686,
+     "conf": 1.0
+    },
+    {
+     "w": "hundred",
+     "start": 82.686,
+     "end": 82.98,
+     "conf": 1.0
+    },
+    {
+     "w": "million",
+     "start": 82.98,
+     "end": 83.28,
+     "conf": 1.0
+    },
+    {
+     "w": "trees.",
+     "start": 83.28,
+     "end": 83.72,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "text": "Food for two and a half million more people.",
+   "start": 85.28,
+   "end": 87.26,
+   "words": [
+    {
+     "w": "Food",
+     "start": 85.28,
+     "end": 85.5,
+     "conf": 1.0
+    },
+    {
+     "w": "for",
+     "start": 85.5,
+     "end": 85.7,
+     "conf": 1.0
+    },
+    {
+     "w": "two",
+     "start": 85.7,
+     "end": 85.9,
+     "conf": 1.0
+    },
+    {
+     "w": "and",
+     "start": 85.9,
+     "end": 86.04,
+     "conf": 1.0
+    },
+    {
+     "w": "a",
+     "start": 86.04,
+     "end": 86.12,
+     "conf": 1.0
+    },
+    {
+     "w": "half",
+     "start": 86.12,
+     "end": 86.32,
+     "conf": 1.0
+    },
+    {
+     "w": "million",
+     "start": 86.32,
+     "end": 86.58,
+     "conf": 1.0
+    },
+    {
+     "w": "more",
+     "start": 86.58,
+     "end": 86.92,
+     "conf": 1.0
+    },
+    {
+     "w": "people.",
+     "start": 86.92,
+     "end": 87.26,
+     "conf": 1.0
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "text": "And nobody planted them.",
+   "start": 88.88,
+   "end": 90.24,
+   "words": [
+    {
+     "w": "And",
+     "start": 88.88,
+     "end": 89.02,
+     "conf": 1.0
+    },
+    {
+     "w": "nobody",
+     "start": 89.02,
+     "end": 89.4,
+     "conf": 1.0
+    },
+    {
+     "w": "planted",
+     "start": 89.4,
+     "end": 89.9,
+     "conf": 1.0
+    },
+    {
+     "w": "them.",
+     "start": 89.9,
+     "end": 90.24,
+     "conf": 1.0
+    }
+   ]
+  }
+ ]
+}

@@ -15,3 +15,5 @@ studio/chile/out/
 studio/chile/out3/
 studio/niger/*.wav
 studio/niger/*.mp3
+studio/musicvideo/out/
+studio/musicvideo/app/node_modules
