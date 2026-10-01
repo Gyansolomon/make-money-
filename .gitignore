@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+work/
+output/
+cookies.txt
+.pytest_cache/
+# video studio: large downloads and render output (see studio/setup_assets.py)
+studio/models/
+studio/chile/assets/world.npy
+studio/chile/assets/countries.geojson
+*.tif
+studio/chile/out/
+studio/chile/out3/
+studio/niger/*.wav
+studio/niger/*.mp3
+studio/musicvideo/out/
+studio/musicvideo/app/node_modules
