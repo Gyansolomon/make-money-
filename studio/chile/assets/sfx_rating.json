@@ -1,0 +1,158 @@
+{
+ "sfx": [
+  {
+   "label": "crack_000:00",
+   "description": "A sharp, dry snap of wood or bone.",
+   "quality": 8,
+   "fit": 9,
+   "tail": false
+  },
+  {
+   "label": "ding_000:00",
+   "description": "A high-pitched, resonant bell chime.",
+   "quality": 9,
+   "fit": 10,
+   "tail": true
+  },
+  {
+   "label": "drums_000:00",
+   "description": "Fast-paced, rhythmic tribal percussion.",
+   "quality": 7,
+   "fit": 8,
+   "tail": false
+  },
+  {
+   "label": "drums_100:00",
+   "description": "Military-style snare drum roll.",
+   "quality": 8,
+   "fit": 9,
+   "tail": false
+  },
+  {
+   "label": "impact_000:00",
+   "description": "A heavy, muffled thud with low-end bass.",
+   "quality": 7,
+   "fit": 7,
+   "tail": true
+  },
+  {
+   "label": "impact_100:00",
+   "description": "A metallic, ringing strike against iron.",
+   "quality": 8,
+   "fit": 9,
+   "tail": true
+  },
+  {
+   "label": "impact_200:00",
+   "description": "A cinematic, explosive boom with debris sounds.",
+   "quality": 10,
+   "fit": 10,
+   "tail": true
+  },
+  {
+   "label": "paper_000:00",
+   "description": "Crisp rustling and unfolding of thick parchment.",
+   "quality": 9,
+   "fit": 10,
+   "tail": false
+  },
+  {
+   "label": "pop_000:00",
+   "description": "A soft, organic bubble-bursting sound.",
+   "quality": 7,
+   "fit": 8,
+   "tail": false
+  },
+  {
+   "label": "pop_100:00",
+   "description": "A sharp, hollow wooden block pop.",
+   "quality": 8,
+   "fit": 9,
+   "tail": false
+  },
+  {
+   "label": "pop_200:00",
+   "description": "A clean, digital UI click-pop.",
+   "quality": 9,
+   "fit": 10,
+   "tail": false
+  },
+  {
+   "label": "riser_000:00",
+   "description": "A low-frequency drone that slowly increases in pitch.",
+   "quality": 7,
+   "fit": 8,
+   "tail": true
+  },
+  {
+   "label": "riser_100:00",
+   "description": "A high-pitched, screeching synth tension builder.",
+   "quality": 8,
+   "fit": 9,
+   "tail": false
+  },
+  {
+   "label": "scratch_000:00",
+   "description": "A classic vinyl record 'rewind' scratch.",
+   "quality": 9,
+   "fit": 10,
+   "tail": false
+  },
+  {
+   "label": "scratch_100:00",
+   "description": "A short, abrasive needle-drag sound.",
+   "quality": 7,
+   "fit": 8,
+   "tail": false
+  },
+  {
+   "label": "swoosh_000:00",
+   "description": "A deep, airy gust of wind passing the ear.",
+   "quality": 8,
+   "fit": 9,
+   "tail": false
+  },
+  {
+   "label": "swoosh_100:00",
+   "description": "A high-velocity, whip-like air movement.",
+   "quality": 9,
+   "fit": 10,
+   "tail": false
+  },
+  {
+   "label": "whoosh_000:00",
+   "description": "A fast, low-pitched air displacement.",
+   "quality": 8,
+   "fit": 9,
+   "tail": false
+  },
+  {
+   "label": "whoosh_100:00",
+   "description": "A cinematic whoosh with a long reverb tail.",
+   "quality": 9,
+   "fit": 10,
+   "tail": true
+  },
+  {
+   "label": "whoosh_200:00",
+   "description": "A short, punchy burst of air.",
+   "quality": 8,
+   "fit": 9,
+   "tail": false
+  },
+  {
+   "label": "wind_000:00",
+   "description": "A steady, howling wind through a canyon.",
+   "quality": 9,
+   "fit": 10,
+   "tail": true
+  },
+  {
+   "label": "wind_100:00",
+   "description": "A low, rumbling atmospheric wind gust.",
+   "quality": 8,
+   "fit": 9,
+   "tail": true
+  }
+ ]
+}

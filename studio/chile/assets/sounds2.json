@@ -1,0 +1,209 @@
+[
+ {
+  "q": "musket shot",
+  "id": "244345",
+  "title": "Musket Explosion",
+  "user": "Willlewis",
+  "mp3": "https://cdn.freesound.org/previews/244/244345_1868310-hq.mp3",
+  "dur": 1.90685,
+  "file": "sfx2/musket_0.mp3"
+ },
+ {
+  "q": "musket shot",
+  "id": "234869",
+  "title": "Musket Shot.wav",
+  "user": "mlsulli",
+  "mp3": "https://cdn.freesound.org/previews/234/234869_3883507-hq.mp3",
+  "dur": 2.4,
+  "file": "sfx2/musket_1.mp3"
+ },
+ {
+  "q": "musket shot",
+  "id": "347647",
+  "title": "musket.wav",
+  "user": "fennelliott",
+  "mp3": "https://cdn.freesound.org/previews/347/347647_6207707-hq.mp3",
+  "dur": 2.04079,
+  "file": "sfx2/musket_2.mp3"
+ },
+ {
+  "q": "sad trombone",
+  "id": "362206",
+  "title": "horn_fail_wahwah_1.wav",
+  "user": "TaranP",
+  "mp3": "https://cdn.freesound.org/previews/362/362206_6629901-hq.mp3",
+  "dur": 4.27756,
+  "file": "sfx2/sadtrombone_0.mp3"
+ },
+ {
+  "q": "cartoon boing",
+  "id": "383240",
+  "title": "Bounce",
+  "user": "Jofae",
+  "mp3": "https://cdn.freesound.org/previews/383/383240_6512973-hq.mp3",
+  "dur": 0.645873,
+  "file": "sfx2/boing_0.mp3"
+ },
+ {
+  "q": "cartoon boing",
+  "id": "540790",
+  "title": "Boing 2",
+  "user": "magnuswaker",
+  "mp3": "https://cdn.freesound.org/previews/540/540790_11537497-hq.mp3",
+  "dur": 1.13303,
+  "file": "sfx2/boing_1.mp3"
+ },
+ {
+  "q": "cartoon boing",
+  "id": "396196",
+  "title": "Cute Anime Jumps",
+  "user": "plasterbrain",
+  "mp3": "https://cdn.freesound.org/previews/396/396196_4284968-hq.mp3",
+  "dur": 1.67413,
+  "file": "sfx2/boing_2.mp3"
+ },
+ {
+  "q": "slide whistle",
+  "id": "395443",
+  "title": "Cartoon Fall",
+  "user": "plasterbrain",
+  "mp3": "https://cdn.freesound.org/previews/395/395443_4284968-hq.mp3",
+  "dur": 2.0463,
+  "file": "sfx2/slide_0.mp3"
+ },
+ {
+  "q": "slide whistle",
+  "id": "161662",
+  "title": "\"Coach\" Whistle.aiff",
+  "user": "connersaw8",
+  "mp3": "https://cdn.freesound.org/previews/161/161662_2219481-hq.mp3",
+  "dur": 0.893968,
+  "file": "sfx2/slide_1.mp3"
+ },
+ {
+  "q": "slide whistle",
+  "id": "403002",
+  "title": "classic dizzy take slide whistle.wav",
+  "user": "martian",
+  "mp3": "https://cdn.freesound.org/previews/403/403002_84709-hq.mp3",
+  "dur": 1.08333,
+  "file": "sfx2/slide_2.mp3"
+ },
+ {
+  "q": "bubble pop",
+  "id": "447910",
+  "title": "Plop!",
+  "user": "Breviceps",
+  "mp3": "https://cdn.freesound.org/previews/447/447910_9159316-hq.mp3",
+  "dur": 0.24254,
+  "file": "sfx2/pop_0.mp3"
+ },
+ {
+  "q": "bubble pop",
+  "id": "221091",
+  "title": "cartoon pop or drip",
+  "user": "AlaskaRobotics",
+  "mp3": "https://cdn.freesound.org/previews/221/221091_1282865-hq.mp3",
+  "dur": 0.144854,
+  "file": "sfx2/pop_1.mp3"
+ },
+ {
+  "q": "bubble pop",
+  "id": "401542",
+  "title": "Pop Sound",
+  "user": "ConarB13",
+  "mp3": "https://cdn.freesound.org/previews/401/401542_2331641-hq.mp3",
+  "dur": 0.243084,
+  "file": "sfx2/pop_2.mp3"
+ },
+ {
+  "q": "crowd gasp",
+  "id": "207779",
+  "title": "Gasp.wav",
+  "user": "Dvideoguy",
+  "mp3": "https://cdn.freesound.org/previews/207/207779_2046066-hq.mp3",
+  "dur": 1.48608,
+  "file": "sfx2/gasp_0.mp3"
+ },
+ {
+  "q": "crowd gasp",
+  "id": "232263",
+  "title": "Gasp!",
+  "user": "ZerOcarina",
+  "mp3": "https://cdn.freesound.org/previews/232/232263_4134750-hq.mp3",
+  "dur": 1.58828,
+  "file": "sfx2/gasp_1.mp3"
+ },
+ {
+  "q": "small crowd cheer",
+  "id": "353923",
+  "title": "yay.wav",
+  "user": "dr_skitz",
+  "mp3": "https://cdn.freesound.org/previews/353/353923_4161250-hq.mp3",
+  "dur": 3.49415,
+  "file": "sfx2/cheer_0.mp3"
+ },
+ {
+  "q": "small crowd cheer",
+  "id": "462362",
+  "title": "Small applause",
+  "user": "Breviceps",
+  "mp3": "https://cdn.freesound.org/previews/462/462362_9159316-hq.mp3",
+  "dur": 4.48605,
+  "file": "sfx2/cheer_1.mp3"
+ },
+ {
+  "q": "footsteps sand",
+  "id": "362024",
+  "title": "Crunchy cookie eating.wav",
+  "user": "Morgan169",
+  "mp3": "https://cdn.freesound.org/previews/362/362024_3992445-hq.mp3",
+  "dur": 4.99229,
+  "file": "sfx2/footsteps_0.mp3"
+ },
+ {
+  "q": "footsteps sand",
+  "id": "813621",
+  "title": "Footsteps - Dirt, Grass, Ground, Nature",
+  "user": "SecureSubset",
+  "mp3": "https://cdn.freesound.org/previews/813/813621_16752880-hq.mp3",
+  "dur": 3.73333,
+  "file": "sfx2/footsteps_1.mp3"
+ },
+ {
+  "q": "body fall thud",
+  "id": "504626",
+  "title": "BODY FALL - V HVY - DIRT",
+  "user": "leonelmail",
+  "mp3": "https://cdn.freesound.org/previews/504/504626_4437257-hq.mp3",
+  "dur": 1.63372,
+  "file": "sfx2/thud_0.mp3"
+ },
+ {
+  "q": "body fall thud",
+  "id": "447922",
+  "title": "Thud / Falling on wooden floor / Snapping, breaking neck",
+  "user": "Breviceps",
+  "mp3": "https://cdn.freesound.org/previews/447/447922_9159316-hq.mp3",
+  "dur": 0.393946,
+  "file": "sfx2/thud_1.mp3"
+ },
+ {
+  "q": "tada fanfare",
+  "id": "397355",
+  "title": "Tada Fanfare A",
+  "user": "plasterbrain",
+  "mp3": "https://cdn.freesound.org/previews/397/397355_4284968-hq.mp3",
+  "dur": 1.71676,
+  "file": "sfx2/tada_0.mp3"
+ },
+ {
+  "q": "tada fanfare",
+  "id": "397353",
+  "title": "Tada Fanfare G",
+  "user": "plasterbrain",
+  "mp3": "https://cdn.freesound.org/previews/397/397353_4284968-hq.mp3",
+  "dur": 1.69075,
+  "file": "sfx2/tada_1.mp3"
+ }
+]

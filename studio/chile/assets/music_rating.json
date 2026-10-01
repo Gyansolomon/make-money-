@@ -1,0 +1,198 @@
+{
+  "tracks": [
+    {
+      "label": "music_adv_000",
+      "genre": "Synth Adventure",
+      "mood": "Energetic",
+      "tempo_feel": "Fast",
+      "audio_quality": 8,
+      "vocals": "no",
+      "suitability": 7
+    },
+    {
+      "label": "music_adv_100",
+      "genre": "Retro/Electronic",
+      "mood": "Quirky",
+      "tempo_feel": "Medium",
+      "audio_quality": 7,
+      "vocals": "no",
+      "suitability": 4
+    },
+    {
+      "label": "music_adv_200",
+      "genre": "Orchestral Adventure",
+      "mood": "Heroic/Discovery",
+      "tempo_feel": "Fast",
+      "audio_quality": 9,
+      "vocals": "no",
+      "suitability": 9
+    },
+    {
+      "label": "music_cine_000",
+      "genre": "Industrial/Cinematic",
+      "mood": "Tense",
+      "tempo_feel": "Medium-Fast",
+      "audio_quality": 8,
+      "vocals": "no",
+      "suitability": 7
+    },
+    {
+      "label": "music_cine_100",
+      "genre": "Ambient Drone",
+      "mood": "Dark/Ominous",
+      "tempo_feel": "Slow",
+      "audio_quality": 8,
+      "vocals": "no",
+      "suitability": 3
+    },
+    {
+      "label": "music_cine_200",
+      "genre": "Cinematic Percussion",
+      "mood": "Urgent/Ticking",
+      "tempo_feel": "Fast",
+      "audio_quality": 10,
+      "vocals": "no",
+      "suitability": 10
+    },
+    {
+      "label": "music_doc_000",
+      "genre": "Minimalist Synth",
+      "mood": "Analytical",
+      "tempo_feel": "Medium",
+      "audio_quality": 8,
+      "vocals": "no",
+      "suitability": 6
+    },
+    {
+      "label": "music_doc_100",
+      "genre": "Atmospheric Pad",
+      "mood": "Ethereal",
+      "tempo_feel": "Slow",
+      "audio_quality": 7,
+      "vocals": "yes",
+      "suitability": 2
+    },
+    {
+      "label": "music_doc_200",
+      "genre": "Acoustic/Folk",
+      "mood": "Relaxed",
+      "tempo_feel": "Slow",
+      "audio_quality": 8,
+      "vocals": "no",
+      "suitability": 1
+    },
+    {
+      "label": "music_doc_300",
+      "genre": "Urban Lo-fi",
+      "mood": "Casual",
+      "tempo_feel": "Medium",
+      "audio_quality": 6,
+      "vocals": "no",
+      "suitability": 4
+    },
+    {
+      "label": "music_epic_000",
+      "genre": "Modern Orchestral",
+      "mood": "Grand/Historical",
+      "tempo_feel": "Medium-Fast",
+      "audio_quality": 9,
+      "vocals": "no",
+      "suitability": 8
+    },
+    {
+      "label": "music_epic_100",
+      "genre": "Epic Choral",
+      "mood": "Intense",
+      "tempo_feel": "Fast",
+      "audio_quality": 9,
+      "vocals": "yes",
+      "suitability": 6
+    },
+    {
+      "label": "music_epic_200",
+      "genre": "Orchestral Hybrid",
+      "mood": "Driving",
+      "tempo_feel": "Fast",
+      "audio_quality": 8,
+      "vocals": "no",
+      "suitability": 7
+    },
+    {
+      "label": "music_lofi_000",
+      "genre": "Lo-fi Hip Hop",
+      "mood": "Chill",
+      "tempo_feel": "Slow",
+      "audio_quality": 7,
+      "vocals": "no",
+      "suitability": 2
+    },
+    {
+      "label": "music_lofi_100",
+      "genre": "Boom Bap",
+      "mood": "Groovy",
+      "tempo_feel": "Medium-Fast",
+      "audio_quality": 8,
+      "vocals": "no",
+      "suitability": 7
+    },
+    {
+      "label": "music_lofi_200",
+      "genre": "Lo-fi",
+      "mood": "Melancholic",
+      "tempo_feel": "Slow",
+      "audio_quality": 7,
+      "vocals": "no",
+      "suitability": 2
+    },
+    {
+      "label": "music_lofi_300",
+      "genre": "Percussive Lo-fi",
+      "mood": "Rhythmic",
+      "tempo_feel": "Fast",
+      "audio_quality": 7,
+      "vocals": "no",
+      "suitability": 6
+    },
+    {
+      "label": "music_upbeat_000",
+      "genre": "Synth-pop",
+      "mood": "Bright",
+      "tempo_feel": "Fast",
+      "audio_quality": 6,
+      "vocals": "no",
+      "suitability": 3
+    },
+    {
+      "label": "music_upbeat_100",
+      "genre": "Funk",
+      "mood": "Happy",
+      "tempo_feel": "Medium",
+      "audio_quality": 7,
+      "vocals": "no",
+      "suitability": 2
+    },
+    {
+      "label": "music_upbeat_200",
+      "genre": "Electronic/Global",
+      "mood": "Mysterious/Driving",
+      "tempo_feel": "Fast",
+      "audio_quality": 8,
+      "vocals": "no",
+      "suitability": 8
+    }
+  ],
+  "top3": [
+    {
+      "label": "music_cine_200",
+      "reason": "The rhythmic 'ticking' percussion is the industry standard for fast-paced map explainers. It provides high energy and urgency without melodic distraction, allowing the narrator's voice to remain the focus."
+    },
+    {
+      "label": "music_adv_200",
+      "reason": "Excellent for the 'geography' aspect. The orchestral swell suggests discovery and grand scale, perfect for showcasing Chile's diverse landscapes from the Atacama to the Andes."
+    },
+    {
+      "label": "music_epic_000",
+      "reason": "Provides the necessary weight for historical segments. It is grand and professional without being over-the-top or 'cheesy', fitting the educational yet energetic tone of the channel."
+    }
+  ]
+}

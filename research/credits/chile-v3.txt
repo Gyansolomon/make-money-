@@ -1,0 +1,25 @@
+Map & terrain: Natural Earth (public domain). Voices: Kokoro TTS (Apache-2.0).
+Stickman motion: CMU Graphics Lab Motion Capture Database (mocap.cs.cmu.edu).
+Chili illustration: rawpixel (CC0) https://www.rawpixel.com/image/7662069
+Music & sound effects: Freesound.org, all CC0:
+- Swosh / Whoosh / Air Cut by qubodup https://freesound.org/s/60030/
+- Woosh by florianreichelt https://freesound.org/s/683096/
+- whoosh.wav by LloydEvans09 https://freesound.org/s/332003/
+- Transition Hit SFX -001.wav by AudioPapkin https://freesound.org/s/648534/
+- record_scratch.wav by simkiott https://freesound.org/s/43404/
+- Unfold a map by Breviceps https://freesound.org/s/447931/
+- Correct.mp3 by LittleRainySeasons https://freesound.org/s/335908/
+- CINEMATIC BG ATMOSPHERIC #0055H.wav by metrostock99 https://freesound.org/s/350955/
+- Musket Explosion by Willlewis https://freesound.org/s/244345/
+- horn_fail_wahwah_1.wav by TaranP https://freesound.org/s/362206/
+- Bounce by Jofae https://freesound.org/s/383240/
+- Cute Anime Jumps by plasterbrain https://freesound.org/s/396196/
+- Cartoon Fall by plasterbrain https://freesound.org/s/395443/
+- "Coach" Whistle.aiff by connersaw8 https://freesound.org/s/161662/
+- classic dizzy take slide whistle.wav by martian https://freesound.org/s/403002/
+- Plop! by Breviceps https://freesound.org/s/447910/
+- cartoon pop or drip by AlaskaRobotics https://freesound.org/s/221091/
+- Footsteps - Dirt, Grass, Ground, Nature by SecureSubset https://freesound.org/s/813621/
+- BODY FALL - V HVY - DIRT by leonelmail https://freesound.org/s/504626/
+- Thud / Falling on wooden floor / Snapping, breaking neck by Breviceps https://freesound.org/s/447922/
+- Tada Fanfare A by plasterbrain https://freesound.org/s/397355/
